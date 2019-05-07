@@ -5,5 +5,5 @@ if(ch=='A' or ch=='a' or ch=='E' or ch =='e' or ch=='I'
     print("Vowel")
 elif(ch=='!' or ch=='@' or ch=='#' or ch=='$' or ch=='%' or ch=='^' or ch=='&' or ch=='*' or ch=='(' or ch==')'):
     print("invalid")
-else:    
-	print("Consonant")
+else:	
+    print("Consonant")
